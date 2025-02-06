@@ -1,9 +1,9 @@
 # HR Analysis (Power BI)
 
-## 📌 Project Overview  
+##  Project Overview  
 This HR Analysis project aims to examine employee attrition trends using **Power BI**. The dataset includes key HR metrics such as employee attrition rates, salary distributions, job roles, and education levels.
 
-## 📂 Repository Structure  
+##  Repository Structure  
 📂 HR_Analysis  
 │-- 📂 Dataset  
 │    ├── HR_Raw_Dataset.xlsx  
@@ -24,7 +24,7 @@ This HR Analysis project aims to examine employee attrition trends using **Power
 
 ## A quick preview of the dashboard
 
-![HR-Analysis Dashboard](Dashboard_Screenshots/HR_analysis_dashboard.png)
+![HR-Analysis Dashboard](dashboard_screenshots/HR_analysis_dashboard.png)
 
 ## 📊 Key Insights  
 - **Total Employees:** **1,480**  
